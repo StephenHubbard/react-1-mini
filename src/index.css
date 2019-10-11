@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+span {
+  background-color: lightgrey;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  padding: 20px;
+  font-size: 40px;
+  border-radius: 10px;
+  text-align: center;
+  border: 2px solid lightslategray;
+}
+
+input {
+  height: 50px;
+}
+
+input[type="text"] {
+  font-size:25px;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+  margin: 50px;
+}
+
+div {
+  margin-top: 100px;
+  
+}
+
+img {
+  margin-left: 50px;
+  width: 200px; 
+}
+
+.newPic {
+  margin-top: 0px;
+  align-items: center;
+}
